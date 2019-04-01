@@ -1,0 +1,43 @@
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.video__container {
+  position: relative;
+  height: 50vh;
+  width: 100%
+
+}
+
+.video {
+  height:20%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.video video {
+  width: 100%;
+}
+
+.drawingBuffer {
+  display: none;
+}
+
+.video__explanation {
+  max-width: 100%;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+/* h1{
+
+} */
+p { 
+  font-size:20px;
+}

@@ -1,0 +1,11 @@
+.off_disclaimer {
+  margin-top: 110px;
+  text-align: center;
+  font-size: 7px;
+  color: white;
+}
+
+.off_disclaimer a {
+  margin-left: 5px;
+  color: white;
+}

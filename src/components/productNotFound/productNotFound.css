@@ -1,0 +1,12 @@
+.productNotFound__container {
+  text-align: center;
+  padding: 10px;
+}
+
+.productDisplay__title.not-found {
+  margin: 10px 0;
+}
+
+button {
+color: #85e83e;
+}
