@@ -4,12 +4,10 @@
   "description": "UPC scanner with dietary restrictions",
   "homepage": "https://obclay.github.io/voidIt",
   "main": "index.js",
+
   "scripts": {
-    "dev": "webpack-dev-server --mode development --display-error-details",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d build"
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
   },
   "engines": {
     "node": ">=8.4.0"
