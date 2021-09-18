@@ -6,7 +6,6 @@ Vegan and don't know if you can try that new snack? Get rid of the stress in the
 
 ## Overview
 
-voidIt is built with ReactJS, app users are able to utilize Quagga.js for the real time barcode scanner. After item is scanned, food item ingredients are pulled from the 
-OpenFoodFacts API and compared with food preferenced stored via FireBase on the users account. 
+voidIt is built with ReactJS and app users are able to utilize Quagga.js for the real time barcode scanner. After item is scanned, food item ingredients are pulled from the OpenFoodFacts API and compared with food preferences locally stored on the users account. 
 
 
